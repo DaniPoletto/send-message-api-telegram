@@ -24,9 +24,9 @@ https://api.telegram.org/bot<TOKEN_DO_BOT>/getUpdates
 
 O retorno irá conter o id do Chat.
 
-![Exercício 1](https://github.com/DaniPoletto/send-message-api-telegram/blob/master/img/config.jpg)
+![Exercício 1](https://github.com/DaniPoletto/send-message-api-telegram/blob/master/img/get_chat_id.jpg)
 
 Agora, pra finalizar, crie um arquivo config.php na pasta src com o token do bot e o Id do Canal. 
 
-![Exercício 1](https://github.com/DaniPoletto/get_chat_id/blob/master/img/config.jpg)
+![Exercício 1](https://github.com/DaniPoletto/send-message-api-telegram/blob/master/img/config.jpg)
 
